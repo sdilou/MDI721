@@ -13,5 +13,5 @@
   - Structures : list, tuple, range, str, dict, set
   - Modules : this, math
 
-[home](readme.md)
+[[home](README.md)]
 
