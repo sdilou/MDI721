@@ -12,3 +12,6 @@
   - Types de base : NonType, bool, int, float
   - Structures : list, tuple, range, str, dict, set
   - Modules : this, math
+
+[home](readme.md)
+
