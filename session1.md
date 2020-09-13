@@ -11,7 +11,7 @@
   - Notebook Jupyter
   - Types de base : NonType, bool, int, float
   - Structures : list, tuple, range, str, dict, set
-  - Modules : this, math
+  - Modules : this, math, pypi
 
 [[home](README.md)]
 
