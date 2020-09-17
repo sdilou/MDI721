@@ -1,4 +1,4 @@
-# INFMDI-721
+# MDI721
 ![Télécom Paris Mastères Spécialisés®](./index.png)
 
 #### Mastère Spécialisé® Big Data : gestion et analyse des données massives
