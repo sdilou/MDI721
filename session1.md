@@ -1,17 +1,19 @@
 # Session 1
 **Plan de la session**
 
-- Intro data science
 - Environnement de développement
   - Editeur de code / IDE
   - Shell
-  - Git
+  - Git (init, clone, status, add, commit, push, fetch)
 - Python
-  - Distribution scientifique
-  - Notebook Jupyter
+  - Distributions
+  - Notebook Jupyter: python, markdown, latex, magic
   - Types de base : NonType, bool, int, float
   - Structures : list, tuple, range, str, dict, set
-  - Modules : this, math, pypi
+  - Fonctions
+  - I/O
+  - PPO
+  - Modules : this, math, PyPI, environnements virtuels
 
 [[home](README.md)]
 
